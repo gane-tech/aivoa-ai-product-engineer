@@ -1,0 +1,14 @@
+Subject: Quality complaint – Paracetamol 500 mg discoloration
+
+Customer: Acme Pharma Distributor
+Source: Customer email
+Product: Paracetamol Tablets 500 mg
+Batch/Lot: PCM-25A014
+Manufacturing date: 2025-01-14
+Expiry date: 2027-01-13
+
+Complaint:
+Three adult consumers reported that several tablets from the same shipped case showed visible discoloration. One consumer reported mild nausea after use. No hospitalization or serious injury was reported. The distributor has retained photos and two unopened strips and requests QA review.
+
+Initial assessment:
+Potential product-quality complaint requiring batch traceability, retained-sample review, and assessment of patient impact.
